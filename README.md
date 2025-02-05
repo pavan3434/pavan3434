@@ -31,10 +31,7 @@ Hi! I'm Pavan Sai, a passionate learner who thrives on solving complex problems 
 
 ---
 
-## 📊 Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ppoluri2024&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ppoluri2024&layout=compact&theme=tokyonight)
-![Profile Views](https://komarev.com/ghpvc/?username=ppoluri2024&style=for-the-badge)
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pavan--sai--/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
