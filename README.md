@@ -1,26 +1,42 @@
 # Hello, I'm Poluri Pavan Sai! 👋
 
-[![Location](https://img.shields.io/badge/Location-Florida%2C%20USA-blue)](#)
-[![Contact Me](https://img.shields.io/badge/Email-Contact%20Me-orange)](mailto:ppoluri2024@fau.edu)
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Florida%2C%20USA-blue?style=for-the-badge&logo=google-maps" alt="Location">
+  <a href="mailto:ppoluri2024@fau.edu"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+</p>
 
 ## 💻 Skills
-![Python](https://img.shields.io/badge/Python-%234CAF50.svg?&logo=python&logoColor=white&style=flat&label=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86)
-![SQL](https://img.shields.io/badge/SQL-%230075C7.svg?&logo=postgresql&logoColor=white&style=flat&label=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-%23E34F26.svg?&logo=html5&logoColor=white&style=flat&label=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86)
-![R Programming](https://img.shields.io/badge/R%20Programming-%235CC9E2.svg?&logo=r&logoColor=white&style=flat&label=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?&style=flat&label=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%239341FF.svg?&style=flat&label=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86)
-![Libraries](https://img.shields.io/badge/Libraries-%23FF6F61.svg?&style=flat&label=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-★★★★☆-yellow?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-★★★★☆-blue?style=for-the-badge&logo=mysql" alt="SQL">
+  <img src="https://img.shields.io/badge/HTML%2FCSS-★★★★☆-orange?style=for-the-badge&logo=html5" alt="HTML/CSS">
+  <img src="https://img.shields.io/badge/R%20Programming-★★★★☆-blue?style=for-the-badge&logo=r" alt="R Programming">
+  <img src="https://img.shields.io/badge/Machine%20Learning-★★★★☆-green?style=for-the-badge&logo=scikit-learn" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Deep%20Learning-★★★★☆-purple?style=for-the-badge&logo=pytorch" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/Libraries-★★★★☆-red?style=for-the-badge" alt="Libraries">
+</p>
 
-## 🛠️ Technologies
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?&logo=google-cloud&logoColor=white&style=flat&label=%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?&logo=git&logoColor=white&style=flat&label=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86)
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?&logo=power-bi&logoColor=black&style=flat&label=%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23FF7F50.svg?&style=flat&label=%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86)
+## 🛠 Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Cloud-★★★☆☆-blue?style=for-the-badge&logo=google-cloud" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Git-★★★★☆-orange?style=for-the-badge&logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/Power%20BI-★★★☆☆-yellow?style=for-the-badge&logo=power-bi" alt="Power BI">
+  <img src="https://img.shields.io/badge/MATLAB-★★★★☆-green?style=for-the-badge&logo=matlab" alt="MATLAB">
+</p>
 
----
+## 🌟 Fun Fact
+<p align="center">
+  <img src="https://img.shields.io/badge/Nickname-Sai-purple?style=for-the-badge" alt="Nickname">
+</p>
+<p align="center">
+  <em>Did you know? I'm passionate about solving interesting problems in rapidly changing environments! 🚀</em>
+</p>
 
-## 🌞 Fun Fact
-Did you know? I'm passionate about solving interesting problems in rapidly changing environments! 🚀
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ppoluri2024&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ppoluri2024&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=ppoluri2024)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/pavan--sai--/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/pavan--sai--/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+</p>
